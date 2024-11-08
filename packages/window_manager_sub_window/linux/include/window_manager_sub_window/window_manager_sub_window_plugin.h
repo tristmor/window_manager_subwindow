@@ -1,5 +1,5 @@
-#ifndef FLUTTER_PLUGIN_WINDOW_MANAGER_PLUGIN_H_
-#define FLUTTER_PLUGIN_WINDOW_MANAGER_PLUGIN_H_
+#ifndef FLUTTER_PLUGIN_WINDOW_MANAGER_SUB_WINDOW_PLUGIN_H_
+#define FLUTTER_PLUGIN_WINDOW_MANAGER_SUB_WINDOW_PLUGIN_H_
 
 #include <flutter_linux/flutter_linux.h>
 
@@ -24,4 +24,4 @@ window_manager_sub_window_plugin_register_with_registrar(
 
 G_END_DECLS
 
-#endif  // FLUTTER_PLUGIN_WINDOW_MANAGER_PLUGIN_H_
+#endif  // FLUTTER_PLUGIN_WINDOW_MANAGER_SUB_WINDOW_PLUGIN_H_
