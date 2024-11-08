@@ -1,5 +1,5 @@
-name: window_manager_workspace
-homepage: https://github.com/leanflutter/window_manager
+name: window_manager_sub_window_workspace
+homepage: https://github.com/leanflutter/window_manager_sub_window
 publish_to: none
 
 environment:
